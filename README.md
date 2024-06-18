@@ -26,3 +26,6 @@ In the meanwhile you cuold also add images
 
 [^1]: Hi! folks
 [^2]: this other one
+
+
+let me see if this works as it must does!!! check this link please https://github.com/EneaRiva91/Web_page_example/blob/main/Details
