@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>See same divs!</title>
+
+</head>
+<body>
+<div> A div is a block element </div> 
+<span style="color: cyan;"> like a paragraph </span>
+<span style="margin: 1px red"> But it is nestable </span>
+<div> and the space between two lines is smaller 
+    than that from 2 paragraphs
+</div>
+</body>
+</html>
